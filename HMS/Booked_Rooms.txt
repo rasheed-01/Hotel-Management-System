@@ -1,0 +1,5 @@
+202 Deluxe Room	Sunday Tuesday
+101 Superior Room	Monday Friday
+203 Studio Room	Friday Saturday
+104 Executive Studio	Thursday Saturday
+201 Superior Room	Monday Wednesday

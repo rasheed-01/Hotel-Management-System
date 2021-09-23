@@ -1,0 +1,15 @@
+Room No.		Room Type		Price(Per Day)
+
+1st Floor
+101			Superior Room		RM 180		
+102			Deluxe Room		RM 200
+103			Studio Room		RM 250			
+104			Executive Suite		RM 400	
+105			Deluxe Suite 		RM 500				
+
+2nd Floor
+201			Superior Room		RM 180		
+202			Deluxe Room		RM 200	
+203			Studio Room		RM 250		
+204			Executive Suite		RM 400		
+205			Deluxe Suite		RM 500		
